@@ -13,6 +13,7 @@ This project was developed with the following technologies:
 * Bootstrap v4 framework
 
 # Preview
+
 ![alt img](https://github.com/selvajayarose/selvajayarose.github.io/blob/master/img/loopboot.jpg)
 
 
